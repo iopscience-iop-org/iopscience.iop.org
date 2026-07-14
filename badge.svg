@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="20" viewBox="0 0 94 20">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="93" height="19" x=".5" y=".5" fill="#FFF" stroke="#CCC" rx="3"/>
+    <path fill="#F9F9F9" d="M60 1h32v18H60z"/>
+    <path stroke="#CCC" d="M60 0v20"/>
+    <text font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#333" transform="translate(18 14)">Citations</text>
+    <text font-family="Arial,sans-serif" font-size="11" fill="#555" transform="translate(68 14)">965</text>
+    <circle cx="9" cy="10" r="5" fill="#FF5E00"/>
+    <path fill="#FFF" d="M8 8h2v4H8z"/>
+    <path fill="#FFF" d="M7 9h4v2H7z"/>
+  </g>
+</svg>
